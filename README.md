@@ -13,3 +13,5 @@ Flutter application created for ITEC4550 by Denzel Gomez. Allows you to add, sor
  - Async and await functions to return added name/word
  - Working with ListView, ListTile widgets, FAB, Icon_sync, and Scaffold
  - Logcat to debug
+
+![Demo](demo/FlutterFinalGif.gif)
